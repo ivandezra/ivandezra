@@ -6,6 +6,6 @@
 
 🤖 I study Cognitive Science and AI at Tilburg University.
 
-💻 My main programming language is Python. I also know how to code in R.
+💻 My main programming language is Python. I also code in R.
 
-I'm interested in general AI and backend developing.
+🧠 I'm interested in general AI and backend developing.
