@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Iván.
-- 👀 I’m interested in general AI.
-- 🌱 I’m currently learning Cognitive Science and AI at Tilburg University.
-- 💞️ I’m looking to collaborate on developmental projects.
+👋Hi, my name is Iván Hernández
 
-<!---
-ivandezra/ivandezra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🏝️ I come from the Canary Islands (Spain).
+
+🤖 I study Cognitive Science and AI at Tilburg University.
+
+💻 My main programming language is Python. I also know how to code in R.
+
+I'm interested in general AI and backend developing.
