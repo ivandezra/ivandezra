@@ -8,6 +8,6 @@
 
 💻 My main programming language is Python. I also code in R.
 
-🧠 I'm interested in general AI and backend developing.
+🧠 I'm interested in general AI, backend developing, and Data Science.
 
 📈 My goal is to improve my coding and critical thinking skills.
