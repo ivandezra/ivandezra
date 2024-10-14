@@ -10,7 +10,7 @@ I’m a recent graduate with a Bachelor of Science in **Artificial Intelligence*
 
 - 🔭 I’m currently looking for new opportunities in **AI**, **Software Engineering**, and **MLOps**.
 - 🌍 I’m based in **Utrecht, Netherlands**.
-- 👯 I’m open to collaborating on innovative projects in AI and Data Science.
+- 👯 I’m open to collaborating on innovative projects in AI and Software Engineering.
 - 💼 Check out my [LinkedIn Profile](https://linkedin.com/in/ivanhernandezramos/) for professional networking.
 
 ---
