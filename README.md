@@ -1,4 +1,4 @@
-# Hi there! I'm Iván Hernández Ramos 👋
+# Iván Hernández Ramos' Portfolio 💼
 
 **AI Graduate | Software Engineer | Machine Learning Enthusiast**
 
